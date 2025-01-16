@@ -59,7 +59,7 @@ Static screenshots of Power BI dashboard are included in this repository.
 
 ## 🔗 Repository Contents
 - **`Hospital Patient Records.py`**: Python script for data preprocessing and analysis
-- **`Hospital Dashboard.pbix`**: Power BI dashboard (static screenshots)
+- **`Hospital Dashboard.png`**: Power BI dashboard (static screenshots)
 
 ## 🚀 Next Steps
 - Explore predictive modeling using this dataset
